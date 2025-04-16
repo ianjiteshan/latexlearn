@@ -1,0 +1,53 @@
+\documentclass[twocolumn]{article}
+\usepackage{graphicx}
+\graphicspath{{images/}} % images path (picture folder)
+\usepackage{caption}
+\usepackage{subcaption}
+\title{ \LaTeX}
+\begin{document}
+	\maketitle
+	
+\section{Introduction}
+This is the introduction of my work
+
+	% simple picture
+	\begin{figure}
+		\includegraphics{V.png}
+	\end{figure}
+
+	mentioned in Fig. \ref{experiment}
+
+	% with parameter and specification
+	\begin{figure}[!h] % make image in the (t:top, b:bottom, h:here, !:force[optional])
+		\centering % make image in the center
+		\caption{\label{experiment}Logo of page} % name of photo (caption)
+		\includegraphics[width=0.9\textwidth]{images/Blue.png} % control width of image (change to 90% of the text width)
+	\end{figure}
+
+	\begin{figure}
+	\includegraphics[width=0.9\columnwidth]{images/Red.png} % change width to 90% of the column width
+	\end{figure}
+
+\section{Related work}
+This is the related work of my document, the Fig. \ref{fig:app_logo} show the logos of my app, that contains two logo (Fig. \ref{fig:blue_logo} and Fig. \ref{fig:red_logo})
+
+
+	% subfigures
+	\begin{figure*} % *: figure take all page with (in case we use twocolumn)
+		\centering
+		\begin{subfigure}[b]{0.45\columnwidth}
+			\includegraphics[width=\textwidth]{Red.png}
+			\caption{}
+			\label{fig:red_logo}
+		\end{subfigure}
+		~ % ~: beside, new line (blank ligne): bottom to
+		\begin{subfigure}[b]{0.45\columnwidth}
+			\includegraphics[width=\textwidth]{Blue.png}
+			\caption{}
+			\label{fig:blue_logo}
+		\end{subfigure}		
+		\caption{(a) Logo Red. (b) Logo Blue.}
+		\label{fig:app_logo}
+	\end{figure*}
+	
+\end{document}
