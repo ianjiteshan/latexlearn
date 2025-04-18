@@ -345,7 +345,11 @@ INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncms
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi10.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
-INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
+INPUT ./latex-logo.png
+INPUT ./latex-logo.png
+INPUT ./latex-logo.png
+INPUT ./latex-logo.png
+INPUT ./latex-logo.png
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
@@ -372,5 +376,4 @@ INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.p
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb
-INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb

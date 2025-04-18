@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1744845986.05481 "/Users/jitendrajha/Documents/VSC/Latex/first.tex" "first.pdf" "first" 1744845986.48049 2
+["pdflatex"] 1744870797.62466 "/Users/jitendrajha/Documents/VSC/Latex/first.tex" "first.pdf" "first" 1744870798.06078 2
   "/Users/jitendrajha/Documents/VSC/Latex/first.tex" 1744845985.20873 1190 6394a0b6803db275f465bef66a5f43a9 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -37,7 +37,7 @@
   "/usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf" 1739380943 42148 61becc7c670cd061bb319c643c27fdd4 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1744533867 3345733 e1d48281f47a3d9f18f5861a0abb80fe ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "first.aux" 1744845986.40132 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
+  "first.aux" 1744870797.98192 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
   "first.tex" 1744845985.20873 1190 6394a0b6803db275f465bef66a5f43a9 ""
   (generated)
   "first.aux"
